@@ -29,7 +29,11 @@ htdocs/api/db.php       database connection (PDO)
 htdocs/api/index.php    API: GET (read), POST (create), PUT (update), DELETE (delete)
 react-app/              React JS front end (Vite) – the page is in src/App.jsx
 submission/             PDF with the screenshots of the code and the output
+submission/design-2/    second design (blue theme): App.jsx, favicon.svg, screenshots and a Word file
 ```
+
+To use design 2, copy `submission/design-2/App.jsx` to `react-app/src/App.jsx` and
+`submission/design-2/favicon.svg` to `react-app/public/favicon.svg`. Only the look changes – the CRUD code is the same.
 
 ## How to run (XAMPP)
 
