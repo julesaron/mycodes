@@ -1,0 +1,5 @@
+/* Global styles (the component styles are inside App.jsx) */
+body {
+  margin: 0;
+  background: #ffffff;
+}
